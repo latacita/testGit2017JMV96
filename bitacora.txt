@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+7.		add bitacora.txt
+8.		commit
+9.		checkout Historia001
+16.		stash apply
