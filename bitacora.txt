@@ -9,3 +9,4 @@
 3.		checkout -b Historia000
 4.		checkout -b Historia001
 5.		checkout Historia000
+11.		stash + checkout
