@@ -7,3 +7,6 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 25.									Recursiva
+27.		tag
+28.		push -> pull + push			Conflicto fuera de sincronía.
+									Realizado pull y después push.
