@@ -1,12 +1,22 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):    Martínez Vila, Javier             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+3.		checkout -b Historia000
+4.		checkout -b Historia001
+5.		checkout Historia000
+7.		add bitacora.txt
+8.		commit
+9.		checkout Historia001
+11.		stash + checkout
+16.		stash apply
+20.		merge						Fast-forward
 25.									Recursiva
 27.		tag
 28.		push -> pull + push			Conflicto fuera de sincronía.
 									Realizado pull y después push.
+30.		merge						Recursiva
