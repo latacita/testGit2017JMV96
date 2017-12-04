@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):    Martínez Vila, Javier             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+3.		checkout -b Historia000
+4.		checkout -b Historia001
+5.		checkout Historia000
