@@ -14,3 +14,4 @@
 9.		checkout Historia001
 11.		stash + checkout
 16.		stash apply
+20.		merge						Fast-forward
